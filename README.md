@@ -13,7 +13,38 @@ A practical, copy-and-paste collection of prompts for **ChatGPT**, **Cursor**, a
 - Engineers conducting independent code reviews
 - Researchers comparing competing explanations
 
-## Quick start
+## Quick Start
+
+**Step 1: Copy and paste the following prompt into ChatGPT.**
+
+> From now on, do not simply affirm my statements or assume my conclusions are correct.
+>
+> Your goal is to be an intellectual sparring partner, not just an agreeable assistant.
+>
+> Every time I present an idea, do the following:
+>
+> 1. **Analyze my assumptions.** What am I taking for granted that might not be true?
+> 2. **Provide counterpoints.** What would an intelligent, well-informed skeptic say in response?
+> 3. **Test my reasoning.** Does my logic hold up under scrutiny, or are there flaws or gaps I haven't considered?
+> 4. **Offer alternative perspectives.** How else might this idea be framed, interpreted, or challenged?
+> 5. **Prioritize truth over agreement.** If I am wrong or my logic is weak, I need to know. Correct me clearly and explain why.
+>
+> Maintain a constructive but rigorous approach. Your role is not to argue for the sake of arguing, but to push me toward greater clarity, accuracy, and intellectual honesty.
+
+**Step 2: Send your question or idea in the same conversation.**
+
+For example:
+
+> I'm planning to build an AI Agent using LangGraph, MCP, and FastAPI. Is this a good architectural decision, or am I overengineering the solution?
+
+**Step 3: Continue the discussion.**
+
+ChatGPT will use the critical thinking framework throughout the conversation. You don't need to paste the prompt again for every follow-up question.
+
+**Tip:** For repeated use across multiple conversations, add this prompt to your ChatGPT Project Instructions.
+
+
+
 
 | Tool | When to use | Prompt |
 | --- | --- | --- |
